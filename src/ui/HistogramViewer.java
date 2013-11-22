@@ -1,4 +1,6 @@
-package katahistogram;
+package ui;
+
+import katahistogram.Histogram;
 
 public abstract class HistogramViewer<T> {
     

@@ -1,5 +1,6 @@
-package katahistogram;
+package ui;
 
+import katahistogram.Histogram;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;

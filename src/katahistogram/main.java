@@ -1,5 +1,8 @@
 package katahistogram;
 
+import ui.HistogramViewer;
+import persistance.PersonLoader;
+import ui.ChartHistrogramViewer;
 import java.util.ArrayList;
 
 public class main {

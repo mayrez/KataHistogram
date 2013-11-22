@@ -1,4 +1,6 @@
-package katahistogram;
+package ui;
+
+import katahistogram.Histogram;
 
 public class ConsoleHistogramViewer<T> extends HistogramViewer<T> {
 
